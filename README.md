@@ -1,6 +1,9 @@
-# Optixal's OSCP Notes
 
-![20190701_164451](https://user-images.githubusercontent.com/19287477/60424084-20863c00-9c22-11e9-990a-1cba27aa9cb6.jpg)
+
+
+#### Copied from Optixal's OSCP Notes
+
+
 
 > Try Harder
 
